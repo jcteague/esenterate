@@ -1,0 +1,1 @@
+Esenterate is a clean, fluent API for using ESENT, a powerful, fast, and scalable embedded database technology that's shipped with Windows for nearly a decade.  Esenterate abstracts away the complexities of using the raw ESENT API and allows you to focus on storing and retrieving data.
